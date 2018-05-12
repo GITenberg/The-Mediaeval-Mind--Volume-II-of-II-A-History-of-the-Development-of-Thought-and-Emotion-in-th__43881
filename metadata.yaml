@@ -1,0 +1,29 @@
+_repo: The-Mediaeval-Mind--Volume-II-of-II-A-History-of-the-Development-of-Thought-and-Emotion-in-th__43881
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43881-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taylor, Henry Osborn
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '42453'
+    url: http://www.gutenberg.org/2009/agents/42453
+description: ''
+gutenberg_issued: '2013-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Medieval'
+- !lcc 'CB'
+- !lcsh 'Philosophy, Medieval'
+- !lcsh 'Middle Ages'
+title: "The Mediaeval Mind (Volume 2 of 2)\r\nA History of the Development of Thought\
+  \ and Emotion in the Middle Ages"
+url: http://www.gutenberg.org/ebooks/43881
