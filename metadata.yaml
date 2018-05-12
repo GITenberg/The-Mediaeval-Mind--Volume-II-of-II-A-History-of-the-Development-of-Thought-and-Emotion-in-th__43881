@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42453'
     url: http://www.gutenberg.org/2009/agents/42453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43881#The-Mediaeval-Mind--Volume-II-of-II-A-History-of-the-Development-of-Thought-and-Emotion-in-th_
 gutenberg_issued: '2013-10-04'
 gutenberg_type: Text
 identifiers:
